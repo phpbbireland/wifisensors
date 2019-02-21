@@ -11,3 +11,5 @@ More to follow...
 
 [Link to ESP8266 Forum](http://www.esp8266.com/index.php)
 
+Compiled on Arduino IDE 1.8.5 - 1.8.8
+Select Board: ESP Dev Module (Install if required)
